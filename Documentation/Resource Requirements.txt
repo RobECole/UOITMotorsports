@@ -1,0 +1,19 @@
+Resource Requirements
+- Vector image of logo
+- Images
+- CONTENT
+
+Questions/ Issues
+- Specifications
+	- Blog?
+	- static about page
+	- users?
+	- Documentation Requirements
+	- Maintainability
+
+Requests:
+- automatically "like us on FB link"
+	- no can do, link ot page and tell them to do it
+- ez forum board fo file sharing
+	- github?
+
